@@ -1,0 +1,3 @@
+[submodule "subRepositoryOne"]
+	path = subRepositoryOne
+	url = https://github.com/liuhaobj/subRepositoryOne.git
